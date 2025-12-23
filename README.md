@@ -21,3 +21,5 @@ A responsive and modern e-commerce website built using only **HTML5 and CSS3**.
 
 ## 📌 Author
 Kavita Seervi
+## 🚀 Live Demo
+https://kavita635.github.io/ecommerce-website-html-css/
